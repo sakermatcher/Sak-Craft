@@ -1,0 +1,20 @@
+{
+    "packs": [
+        "vanilla"
+    ],
+    "seed": 28,
+    "name": "Test2",
+    "chunkSize": {
+        "x": 12,
+        "z": 24,
+        "y": 30
+    },
+    "background": [
+        140,
+        172,
+        252
+    ],
+    "loaded": [
+        "d0"
+    ]
+}

@@ -9,3 +9,11 @@ class grass():
     def __init__(self, args=default) -> None:
         self.args= args
         self.texture= "vanilla:grass"
+        self.hitbox=[[[0,0,0],[100,100,100]]]
+
+class log():
+    default= {'id':"vanilla:log", 'name':"Log"}
+    def __init__(self, args=default) -> None:
+        self.args= args
+        self.texture= "vanilla:log"
+        self.hitbox=[[[0,0,0],[100,100,100]]]

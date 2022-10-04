@@ -1,0 +1,16 @@
+{
+    "packs":["vanilla"],
+    "seed":1,
+    "name":"dont change me!",
+    "chunkSize":{
+        "x":12,
+        "z":24,
+        "y":30
+    },
+    "background":[
+        140, 172, 252
+    ],
+    "loaded":[
+        "d0"
+    ]
+}
